@@ -27,7 +27,12 @@
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-size: $menu-bar-standard-font-size;
     font-weight: bold;
+    /* 
+    hide original for test 
     background-color: $motion-primary;
+    by LK
+    */
+    background-color: $control-primary;
     color: $ui-white;
 }
 

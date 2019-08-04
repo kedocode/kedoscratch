@@ -46,10 +46,10 @@ import gdxforInsetIconURL from './gdxfor/gdxfor-small.svg';
 import gdxforConnectionIconURL from './gdxfor/gdxfor-illustration.svg';
 import gdxforConnectionSmallIconURL from './gdxfor/gdxfor-small.svg';
 
-import helloWorldIconURL from './helloWorld/helloworld.png';
-import helloWorldInsetIconURL from './helloWorld/helloworld.svg';
-import helloWorldConnectionIconURL from './helloWorld/helloworld.svg';
-import helloWorldConnectionSmallIconURL from './helloWorld/helloworld.svg';
+import helloWorldIconURL from './helloWorld/aiknowledge.png';
+import helloWorldInsetIconURL from './helloWorld/AI.svg';
+import helloWorldConnectionIconURL from './helloWorld/ai1.svg';
+import helloWorldConnectionSmallIconURL from './helloWorld/AI.svg';
 
 export default [
     {
@@ -173,15 +173,15 @@ export default [
     },
     {
         name: 'Hello World',
-        extensionId: 'helloworld',
+        extensionId: 'helloWorld',
         collaborator: 'kedocode',
         iconURL: helloWorldIconURL,
         insetIconURL: helloWorldInsetIconURL,
         description: (
             <FormattedMessage
                 defaultMessage="Hello World!"
-                description="Description for the 'helloworld' extension"
-                id="gui.extension.helloworld.description"
+                description="Description for the 'Hello World' extension"
+                id="gui.extension.helloWorld.description"
             />
         ),
         featured: true
