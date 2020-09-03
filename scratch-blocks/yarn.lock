@@ -2068,10 +2068,10 @@ google-closure-compiler@20180402.0.0:
     vinyl "^2.0.1"
     vinyl-sourcemaps-apply "^0.2.0"
 
-google-closure-library@20180204.0.0:
-  version "20180204.0.0"
-  resolved "https://registry.yarnpkg.com/google-closure-library/-/google-closure-library-20180204.0.0.tgz#ad3c5a18dfd731c6149c5220d2991c0c9129718a"
-  integrity sha1-rTxaGN/XMcYUnFIg0pkcDJEpcYo=
+google-closure-library@20190301.0.0:
+  version "20190301.0.0"
+  resolved "https://registry.yarnpkg.com/google-closure-library/-/google-closure-library-20190301.0.0.tgz#1d0f584ad207dc3869af44668e7fbf04d10acdee"
+  integrity sha512-mpeszbnXpRhXZ0sPqUxBgUmk0RtmzrJRy3KFygp0Ih9JuRUjQTCLhwYQeIlK2vB2lShhY/KUo9E1Z1gvxDFxOQ==
 
 graceful-fs@4.1.10:
   version "4.1.10"
